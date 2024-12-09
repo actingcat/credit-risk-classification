@@ -7,4 +7,4 @@ For this assignment, we were tasked with analysing a data set with lending activ
   * The F1 scores represent the weighted average of precision and recall. The F1 score for the healthy loan was 100%, and 89% for the unhealthy loan.
   * Support represents the number of occurances within a dataset. The healthy loans had a significantly greater number of occurances(over 18k), versus the defaulting loans, that only have about 600 occurances.     This means that the data set is not particularly well balanced. The support numbers would have to be more equal to have a well balanced data set. 
   * Across both loan types, the accuracy score was almost perfect, at 99%.
-Overall, I would recommend that the company use this model to analyze the crediworthiness of its borrowers because it has high percentages in the three categories precision, recall, and F1. 
+* Overall, I would recommend that the company use this model to analyze the crediworthiness of its borrowers because it has high percentages in the three categories precision, recall, and F1. 
